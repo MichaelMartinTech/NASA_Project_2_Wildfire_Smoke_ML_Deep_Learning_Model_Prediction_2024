@@ -1,4 +1,4 @@
-# Deep Learning-Based Predictive Model using Big Data to Predict Wildfire Smokes
+# Machine Learning and Deep Learning-Based Wildfire Prediction using Big Data
 **Author:** Michael R. Martin
 
 **Initially Uploaded on GitHub: 11/10/2024**
