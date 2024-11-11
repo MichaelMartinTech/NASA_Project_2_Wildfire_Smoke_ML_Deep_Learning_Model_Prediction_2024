@@ -1,10 +1,10 @@
-# Wildfire_Smoke_ML_Prediction_2024
+# Deep Learning-Based Predictive Model using Big Data to Predict Wildfire Smokes
 **Author:** Michael R. Martin
 
 **Initially Uploaded on GitHub: 11/10/2024**
 
 ## Purpose:  
-The purpose of this program is to predict *Air Pollutant Levels* (**PM2.5 levels**) in the atmosphere, specifically targeting wildfire smoke emission impacts using various machine learning techniques, including a newly added LSTM model for time series prediction. It achieves this by analyzing a range of environmental and meteorological features that influence wildfire smoke behavior and **PM2.5** emissions. The features include vapor pressure deficit, maximum temperature, precipitation, and other drought and moisture indices.
+The purpose of this program is to predict *Air Pollutant Levels* (**PM2.5 levels**) in the atmosphere, specifically targeting wildfire smoke emission impacts using various machine learning techniques, including deep learning. It achieves this by analyzing a range of environmental and meteorological features that influence wildfire smoke behavior and **PM2.5** emissions. The features include vapor pressure deficit, maximum temperature, precipitation, and other drought and moisture indices.
 
 Key aspects of the program include:
 
