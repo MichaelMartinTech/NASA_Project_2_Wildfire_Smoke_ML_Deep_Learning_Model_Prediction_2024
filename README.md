@@ -54,4 +54,4 @@ After input variables are initialized, input variables and emission big data are
 'LSTM': 'lstm'  # Placeholder for LSTM
 ```
 
-For the LSTM model, additional coding is included to prepare data, run a training loop, track MSE, and generate a plot for epoch-based MSE. Model statistics, such as linear regression statistics, are calculated and displayed after training and predictions.
+After input variables are initialized, input variables and emission big data are read (from 1996 to 2020) before being visualized. After rescaling and reshaping through statistical analysis, several ML models are trained with the training datasets. Data is prepared, a training loop is run, MSE tracked, and a plot is generated for epoch-based MSE. Model statistics, such as linear regression statistics, are calculated and displayed after training and predictions.
