@@ -1,8 +1,3 @@
----
-# Copyright Notice
-All rights reserved. This code is proprietary and may not be copied, distributed, or used without explicit permission from the owner.
----
-
 # NASA-Funded Project: Machine Learning and Deep Learning-Based Wildfire Prediction using Big Data
 **Author:** Michael R. Martin
 
@@ -38,3 +33,7 @@ After input variables are initialized, input variables and emission big data are
    }
    ```
 After input variables are initialized, input variables and emission big data are read (from 1996 to 2020) before being visualized. After rescaling and reshaping through statistical analysis, several ML models are trained with the training datasets. Data is prepared, a training loop is run, MSE tracked, and a plot is generated for epoch-based MSE. Model statistics, such as linear regression statistics, are calculated and displayed after training and predictions.
+
+---
+All rights reserved. This code is proprietary and may not be copied, distributed, or used without explicit permission from the owner.
+---
